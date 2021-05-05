@@ -1,0 +1,16 @@
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\MyTVSeriesAPP.exe
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\MyTVSeriesAPP.deps.json
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\MyTVSeriesAPP.runtimeconfig.json
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\MyTVSeriesAPP.runtimeconfig.dev.json
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\MyTVSeriesAPP.dll
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\ref\MyTVSeriesAPP.dll
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\bin\Debug\net5.0\MyTVSeriesAPP.pdb
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.csprojAssemblyReference.cache
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.AssemblyInfoInputs.cache
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.AssemblyInfo.cs
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.csproj.CoreCompileInputs.cache
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.dll
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\ref\MyTVSeriesAPP.dll
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.pdb
+C:\Users\nicocosta\Desktop\TBlipBootcamp\Projetos\DotnetProjects\MyTVSeriesAPP\obj\Debug\net5.0\MyTVSeriesAPP.genruntimeconfig.cache
